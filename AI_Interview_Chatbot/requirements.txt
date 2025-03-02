@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+transformers
+spacy
+pypdf2
+speechrecognition
+pyttsx3
+google-generativeai
